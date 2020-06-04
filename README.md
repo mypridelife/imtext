@@ -10,9 +10,9 @@ API 文档：https://imsdk-1252463788.file.myqcloud.com/IM_DOC/Web/Message.html
 
 ## 效果演示
 
-![login](https://alipub.binfenyingyu.com/dub/png/0_1591239510830.png)
+![login](https://alipub.binfenyingyu.com/dub/jpg/0_1591240598611.jpg)
 
-![send message](https://alipub.binfenyingyu.com/dub/png/0_1591239860149.png)
+![send message](https://alipub.binfenyingyu.com/dub/jpg/0_1591240614236.jpg)
 
 ## 安装依赖
 
