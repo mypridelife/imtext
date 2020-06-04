@@ -22,7 +22,7 @@
       <div class="message-list">
         <div class="list">
           <div v-for="(item, index) in messageList" :key="index" class="msg">
-            {{ item.nick }}
+            {{ item.nick }}:
             {{ item.payload.text }}
           </div>
         </div>
